@@ -1,0 +1,36 @@
+# The URL the site will be built for
+base_url = "https://haskell-effectful.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "adidoks"
+
+title = "Effectful"
+
+[markdown]
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+
+[[extra.menu.main]]
+name = "Ecosystem"
+section = "docs"
+url = "/ecosystem/"
+weight = 10
+
+[[extra.menu.main]]
+name = "Blog"
+section = "blog"
+url = "/blog/"
+weight = 20
+
+[[extra.section.extra]]
+repo_url = "https://github.com/haskell-effectful/"
