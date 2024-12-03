@@ -3,27 +3,32 @@ title = "Effectful Ecosystem"
 template = "ecosystem/index.html"
 
 [[extra.list]]
-title = "Cryptography"
-content = "Cryptography and random number generation libraries"
-url = "/projects/cryptography/"
+title = "Concurrency"
+content = "Concurrent and asynchronous computations"
+url = "/ecosystem/concurrency/"
 
 [[extra.list]]
-title = "Metrics, Logs, Traces and Profiles"
+title = "Cryptography"
+content = "Cryptography and random number generation libraries"
+url = "/ecosystem/cryptography/"
+
+[[extra.list]]
+title = "Metrics, Logs, Traces, Profiles"
 content = "Produce and export observability data for your application"
-url = "/projects/mltp/"
+url = "/ecosystem/mltp/"
+
+[[extra.list]]
+title = "Data Storage"
+content = "SQL databases, Redis, in-memory caches"
+url = "/ecosystem/data-storage"
 
 [[extra.list]]
 title = "Web Development"
 content = "HTTP servers and clients, HTML templating"
-url = "/projects/web-development"
+url = "/ecosystem/web-development"
 
 [[extra.list]]
-title = "Data stores"
-content = "SQL databases, Redis, in-memory caches"
-url = "/projects/data-storage"
-
-[[extra.list]]
-title = "Utilities"
-content = "Time, system processes"
-url = "/projects/utilities"
+title = "System Programming"
+content = "Time, Processes, Network"
+url = "/ecosystem/system"
 +++
