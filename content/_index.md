@@ -22,5 +22,5 @@ content = "Re-use effects from transformers and MTL libraries, and build on top 
 
 [[extra.list]]
 title = "Semantic Effect Tracking"
-content = "Understand the interactions of your application from a quick look to type signatures. "
+content = "Understand the interactions of your application from a quick look at type signatures. "
 +++
