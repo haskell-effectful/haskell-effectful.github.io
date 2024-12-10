@@ -1,12 +1,12 @@
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main'
+    if: github.ref != 'refs/heads/master'
     steps:
       - name: 'Checkout'
         uses: actions/checkout@main
@@ -16,9 +16,10 @@ jobs:
           BUILD_DIR: .
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_ONLY: true
+
   build_and_deploy:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: 'Checkout'
         uses: actions/checkout@main
