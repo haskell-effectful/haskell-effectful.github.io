@@ -12,6 +12,14 @@ title = "Web Development"
 
 <dl>
     <dt>
+        <a href="https://github.com/seanhess/hyperbole"><code>seanhess/hyperbole</code></a>
+        <img src="https://img.shields.io/hackage/v/hyperbole.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/hyperbole.svg" style="max-width: 100%;">
+    </dt>
+    <dd> Interactive serverside web framework inspired by HTMX. </dd>
+</dl>
+
+<dl>
+    <dt>
         <a href="https://github.com/seanhess/web-view"><code>seanhess/web-view</code></a>
         <img src="https://img.shields.io/hackage/v/web-view.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/web-view.svg" style="max-width: 100%;">
     </dt>
