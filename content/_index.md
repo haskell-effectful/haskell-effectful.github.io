@@ -5,8 +5,10 @@ title = "Effectful"
 # The homepage contents
 [extra]
 lead = "Build Fast & Reliable Haskell Applications"
-url = "/ecosystem/"
-url_button = "Browse the ecosystem"
+left_url = "/ecosystem/"
+left_url_button = "Browse the ecosystem"
+right_url = "https://hackage.haskell.org/package/effectful-core/docs/Effectful.html"
+right_url_button = "Read the documentation"
 repo_version = ""
 repo_license = ""
 repo_url = "https://github.com/haskell-effectful/effectful"

@@ -38,9 +38,15 @@
 					{% endfor %}
 				{% elif config.extra.menu.main %}
 					{% for val in config.extra.menu.main %}
-						<li class="nav-item{% if current_section == val.section %} {{ current_section }} active{% endif %}">
-							<a class="nav-link" href="{{ get_url(path=val.url, trailing_slash=true) | safe }}">{{ val.name }}</a>
-						</li>
+						{% if val.section %}
+							<li class="nav-item{% if current_section == val.section %} {{ current_section }} active{% endif %}">
+								<a class="nav-link" href="{{ get_url(path=val.url, trailing_slash=true) | safe }}">{{ val.name }}</a>
+							</li>
+						{% else %}
+							<li class="nav-item">
+								<a class="nav-link" href="{{ val.url | safe }}">{{ val.name }}</a>
+							</li>
+						{% endif %}
 					{% endfor %}
 				{% else %}
 				<li class="nav-item">
