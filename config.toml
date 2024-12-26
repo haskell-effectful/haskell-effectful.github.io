@@ -24,13 +24,15 @@ highlight_code = true
 name = "Ecosystem"
 section = "docs"
 url = "/ecosystem/"
-weight = 10
 
 [[extra.menu.main]]
 name = "Blog"
 section = "blog"
 url = "/blog/"
-weight = 20
+
+[[extra.menu.main]]
+name = "Docs"
+url = "https://hackage.haskell.org/package/effectful-core/docs/Effectful.html"
 
 [[extra.section.extra]]
 repo_url = "https://github.com/haskell-effectful/"
