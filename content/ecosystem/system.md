@@ -29,6 +29,7 @@ title = "System Programming"
 <dl>
     <dt>
         <a href="https://github.com/Cajunvoodoo/network-effectful"><code>Cajunvoodoo/network-effectful</code></a>
+        <img src="https://img.shields.io/hackage/v/network-effectful.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/network-effectful.svg" style="max-width: 100%;">
     </dt>
-    <dd>  Adaptation of the socket library for the effectful ecosystem. </dd>
+    <dd>  Adaptation of the network library for the effectful ecosystem. </dd>
 </dl>
