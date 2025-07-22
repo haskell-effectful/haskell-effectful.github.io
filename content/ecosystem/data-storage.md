@@ -30,5 +30,19 @@ title = "Data Storage"
     <dt>
         <a href="https://github.com/Kleidukos/pg-transact-effectful"><code>kleidukos/pg-transact-effectful</code></a>
     </dt>
-    <dd> pg-transact for the Effectful ecosystem .</dd>
+    <dd> pg-transact for the Effectful ecosystem. </dd>
+</dl>
+
+<dl>
+    <dt>
+        <a href="https://github.com/fpringle/effectful-postgresql/tree/main/effectful-postgresql"><code> fpringle/effectful-postgresql</code></a>
+    </dt>
+    <dd>  Haskell PostgreSQL functionality in Effectful </dd>
+</dl>
+
+<dl>
+    <dt>
+        <a href="https://github.com/fpringle/effectful-postgresql/tree/main/effectful-opaleye"><code> fpringle/effectful-opaleye</code></a>
+    </dt>
+    <dd> Effect for Opaleye operations. </dd>
 </dl>
