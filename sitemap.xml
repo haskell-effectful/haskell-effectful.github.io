@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://haskell-effectful.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/authors/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/concurrency/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/cryptography/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/data-storage/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/mltp/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/system/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/ecosystem/web-development/</loc>
+    </url>
+    <url>
+        <loc>https://haskell-effectful.github.io/privacy-policy/</loc>
+    </url>
+</urlset>
