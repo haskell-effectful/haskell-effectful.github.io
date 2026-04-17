@@ -33,7 +33,7 @@ content = "Time, Processes, Network"
 url = "/ecosystem/system"
 
 [[extra.list]]
-title = "Message Brokers"
-content = "Stream processing, messaging systems, message queues"
+title = "Messaging Systems"
+content = "Stream processing, message queues"
 url = "/ecosystem/messaging"
 +++
