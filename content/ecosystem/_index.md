@@ -31,4 +31,9 @@ url = "/ecosystem/web-development"
 title = "System Programming"
 content = "Time, Processes, Network"
 url = "/ecosystem/system"
+
+[[extra.list]]
+title = "Message Brokers"
+content = "Stream processing, messaging systems, message queues"
+url = "/ecosystem/messaging"
 +++
