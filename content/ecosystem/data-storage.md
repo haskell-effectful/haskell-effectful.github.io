@@ -36,7 +36,7 @@ title = "Data Storage"
     <dt>
         <a href="https://github.com/Kleidukos/pg-transact-effectful"><code>kleidukos/pg-transact-effectful</code></a>
     </dt>
-    <dd> pg-transact for the Effectful ecosystem. </dd>
+    <dd> pg-transact for the Effectful ecosystem.</dd>
 </dl>
 
 <dl>
@@ -46,7 +46,7 @@ title = "Data Storage"
             <img src="https://img.shields.io/hackage/v/effectful-postgresql.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/effectful-postgresql.svg" style="max-width: 100%;">
         </a>
     </dt>
-    <dd>  Haskell PostgreSQL functionality in Effectful </dd>
+    <dd>  Haskell PostgreSQL functionality in Effectful. </dd>
 </dl>
 
 <dl>
@@ -57,4 +57,14 @@ title = "Data Storage"
         </a>
     </dt>
     <dd> Effect for Opaleye operations. </dd>
+</dl>
+
+<dl>
+    <dt>
+        <a href="https://github.com/joshburgess/valiant"><code>joshburgess/valiant</code></a>
+        <a href="https://hackage.haskell.org/package/valiant-effectful">
+            <img src="https://img.shields.io/hackage/v/valiant-effectful.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/valiant-effectful.svg" style="max-width: 100%;">
+        </a>
+    </dt>
+    <dd>Provides an Valiant effect for the effectful effect system, enabling compile-time checked SQL queries as an effect with pool-based handlers.</dd>
 </dl>
