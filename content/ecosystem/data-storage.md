@@ -68,3 +68,14 @@ title = "Data Storage"
     </dt>
     <dd>Provides an Valiant effect for the effectful effect system, enabling compile-time checked SQL queries as an effect with pool-based handlers.</dd>
 </dl>
+
+
+<dl>
+    <dt>
+        <a href="https://github.com/dcastro/sqlite-simple-effectful"><code>dcastro/sqlite-simple-effectful</code></a>
+        <a href="https://hackage.haskell.org/package/sqlite-simple-effectful">
+            <img src="https://img.shields.io/hackage/v/sqlite-simple-effectful.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/sqlite-simple-effectful.svg" style="max-width: 100%;">
+        </a>
+    </dt>
+    <dd>Adaptation of the sqlite-simple library for the effectful ecosystem.</dd>
+</dl>
