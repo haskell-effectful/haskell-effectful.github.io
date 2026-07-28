@@ -28,6 +28,14 @@ title = "Web Development"
 
 <dl>
     <dt>
+        <a href="https://codeberg.org/ida-org/IDA"><code>IDA/warp-effectful</code></a>
+        <img src="https://img.shields.io/hackage/v/warp-effectful.svg" alt="Hackage" data-canonical-src="https://img.shields.io/hackage/v/warp-effectful.svg" style="max-width: 100%;">
+    </dt>
+    <dd> Adaptation of the warp library for the effectful ecosystem. </dd>
+</dl>
+
+<dl>
+    <dt>
         <a href="https://github.com/Kleidukos/servant-effectful/"><code>kleidukos/servant-effectful</code></a>
     </dt>
     <dd> Servant bindings for the Effectful ecosystem. </dd>
