@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haskell-effectful.github.io/sitemap.xml
